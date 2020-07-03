@@ -1,0 +1,3 @@
+include ':lib-extension'
+include ':app'
+rootProject.name = "Sdk-Extension"
