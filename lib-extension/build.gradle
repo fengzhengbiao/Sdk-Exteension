@@ -40,6 +40,9 @@ dependencies {
     implementation rootProject.ext.dependencies["appcompat"]
     api rootProject.ext.dependencies["anko-commons"]
     api rootProject.ext.dependencies["anko-sqlite"]
+
+    api rootProject.ext.dependencies["rxjava"]
+    api rootProject.ext.dependencies["rxandroid"]
 }
 
 
